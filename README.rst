@@ -66,7 +66,7 @@ services`_ offerings.
 .. _SaltConf: http://saltconf.com/
 .. _SaltStack education offerings: http://saltstack.com/training/
 .. _SaltStack Certified Engineer (SSCE): http://saltstack.com/certification/
-.. _SaltStack professional services: http://saltstack.com/services/
+.. _SaltStack professional services: https://www.saltstack.com/products/saltstack-services/
 
 License
 =======
